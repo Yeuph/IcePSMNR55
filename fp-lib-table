@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "icePSMNR55")(type "KiCad")(uri "${KIPRJMOD}/icePSMNR55.pretty")(options "")(descr ""))
+)
